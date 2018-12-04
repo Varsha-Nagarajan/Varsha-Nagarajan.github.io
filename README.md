@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## About Me
+
+I'm a first year Masters student in Computer Science at North Carolina State University. Prior to this, I was working as a Software Engineer at Micro Focus, Bangalore, India, where I actively contributed to the development and enhancement of ZENworks, an infrastructure management product.
+
+I identify myself as a hard-working, confident and highly motivated individual who is a team player, problem solver and a quick-learner. My interest lies at the intersection of systems (parallel and distributed) and business intelligence. I like working on solutions that could scale to large amounts of data by leveraging many distributed architecture systems. I also take interest and have worked on many
+optimization and performance improvement challenges, where the objective was achieved by designing efficient algorithms, query optimization and developing frameworks to effectively handle load. During my previous employment, I got an opportunity to solve a wide array of interesting problems, lead design discussions and learn software design practices. I was also given the role of a Scrum Master where I worked on enforcing scrum practices, tracking progress, facilitating effective backlog grooming,
+planning, driving test-driven development, cross-team coordination, people management, resolving dependencies and ensuring seamless sprint execution.
+
+In my journey so far, I have tried to explore various opportunities, took up different roles and responsibilities and built both my technical and soft skills
 
 You can use the [editor on GitHub](https://github.com/Varsha-Nagarajan/Varsha-Nagarajan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
